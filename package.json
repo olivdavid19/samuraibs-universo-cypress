@@ -1,0 +1,15 @@
+{
+  "name": "samuraibs-tests",
+  "version": "1.0.0",
+  "description": "Tests end2end in Cypress",
+  "main": "index.js",
+  "author": "David Oliveira",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^10.9.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "pg": "^8.8.0"
+  }
+}
